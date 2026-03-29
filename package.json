@@ -1,0 +1,1 @@
+{\n  "name": "electron-digital-planner",\n  "version": "1.0.0",\n  "main": "main.js",\n  "scripts": {\n    "start": "electron .",\n    "dev": "electron . --dev",\n    "build": "electron-builder"\n  },\n  "dependencies": {\n    "electron": "^latest"\n  },\n  "devDependencies": {\n    "electron-builder": "^latest"\n  }\n}
